@@ -1,0 +1,360 @@
+*CSS CODE*
+
+.body{
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+  float: left;
+  
+}
+.site-heading{
+  float: left;
+  color: Black;
+  margin-left: 10px;
+  text-transform: uppercase;
+  
+}
+
+.searchbar{
+  margin: 5% 0 5% 7%;
+  float: left;
+  
+}
+.navbar{
+  float: none;
+  clear: both;
+}
+.h4{
+  color: white;
+}
+
+a{
+  color: whitesmoke;
+}
+
+
+.navbar1{
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #098ceb;
+  text-decoration: none;
+}
+.navbar2{
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #098ceb;
+}
+.navbar3{
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #098ceb;
+}
+.navbar4{
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: #098ceb;
+}
+.location-icon{
+  float: left;
+  margin-top: 5px;
+}
+.product{
+  margin: 10px 0 0 0;
+ 
+}
+.mobiles{
+  height: 100px;
+  width: 18%;
+  border: 2px solid #cccc00;
+ 
+  float: left;
+      background-color: #cccc00;
+        margin-left: 3px;
+              text-align: center;
+
+
+
+}
+.fashion{
+    height: 100px;
+    width: 18%;
+    border: 2px solid #cccc00;
+        margin-left: 3px;
+
+    float: left;
+          background-color: #cccc00;
+
+        
+        
+              text-align: center;
+
+
+
+}
+.grocery{
+    height: 100px;
+    width: 18%;
+    border: 2px solid #cccc00;
+        margin-left: 3px;
+
+    float: left;
+          background-color: #cccc00;
+
+        
+          
+                text-align: center;
+
+
+
+}
+.home-appliances{
+    height: 100px;
+    width: 18%;
+    border: 2px solid #cccc00;
+        margin-left: 3px;
+
+    float: left;
+              background-color: #cccc00;
+
+          
+                text-align: center;
+
+
+
+}
+.accessories{
+    height: 100px;
+    width: 17%;
+    border: 2px solid #cccc00;
+    float: left;
+         background-color: #cccc00;
+              margin-left: 3px;
+
+      text-align: center;
+
+}
+.home-icon{
+  margin-top: 5px;
+}
+.sale-logo{
+  margin-top: 10px;
+}
+.left-section{
+  background-color: lightgrey;
+ float: left;
+ height: 240px;
+ width: 30%;
+ border: 1px solid black;
+ border-radius: 3px;
+ box-shadow: 2px 4px #a6a6a6;
+}
+.section1{
+  border: 1px solid white;
+  text-align: center;
+}
+.section2{
+    border: 1px solid white;
+      text-align: center;
+
+
+}
+.section3{
+    border: 1px solid white;
+      text-align: center;
+
+
+}
+.section4{
+    border: 1px solid white;  
+    text-align: center;
+
+
+}
+.right-section{
+  background-color: lightgrey;
+  float: left;
+  margin-left: 8px;
+   height: 240px;
+ width: 63%;
+ border: 1px solid black;
+ border-radius: 3px;
+ box-shadow: 2px 4px #a6a6a6;
+}
+.rightsection1 h3{
+  text-align: left;
+ 
+  
+}
+.p{
+  text-align: center;
+}
+.rightsection2 h3{
+  text-align: center;
+  margin-top: 45px;
+  border: 1px solid orange;
+  border-radius: 2px;
+  width: 100px;
+  margin-left: 25%;
+  background-color: orange;
+}
+a{
+  color: #098ceb;
+  margin-left: 10px;
+}
+.offer{
+ 
+margin-top: 250px;
+width: 100%;
+height: 160px;
+  background-color: #ff8000;
+  
+}
+.delivery{
+  margin-top: 5px;
+}
+.cashon{
+  margin-bottom: 10px;
+}
+
+.offer1{
+  width: 30%;
+  height: 60px;
+
+ float: left;
+}
+.offer2{
+  width: 30%;
+  height: 60px;
+  
+  float: left;
+ margin-left: 10px;
+ text-align: center;
+ margin-bottom: 40px;
+  
+}
+.offer3{
+  width: 30%;
+  height: 60px;
+  
+  margin-left: 10px;
+  float: left;
+  text-align: center;
+}
+  .offer-heading{
+   margin: 0 0 15px 0;
+   text-align: center;
+   text-transform: uppercase;
+  }
+  .cashback{
+    float: left;
+    margin-left: 20px;
+  }
+  .line{
+  border: 1px solid black;
+  width: 100%;
+  }
+  .additional{
+    background-color:  #ffcc00;
+    width: 100%;
+    height: 10px;
+  }
+ .leftfooter{
+   background-color: #003399;
+   width: 30%;
+   height: 200px;
+   float: left;
+       border: 1px solid grey;
+
+   
+ }
+.footer1{
+  float: left;
+}
+.social{
+  margin: 5px 0 0 5px;
+}
+.follow{
+  color: white;
+  margin: 0 0 10px 5px;
+}
+.policy a{
+  color: white;
+  font-size: 12px;
+  margin: 0 2px; 0 0;}
+.blog a{
+    color: white;
+    font-size: 12px;
+   margin: 0 2px; 0 0;}
+
+.contact a{
+      color: white;
+  font-size: 12px;
+  margin: 0 2px; 0 0;
+}
+
+.rightfooter{
+    background-color: #003399;
+    float: left;
+        margin-left: 0px;
+
+    height: 200px;
+    width: 68%;
+    border: 1px solid grey;
+    
+    
+}
+
+.right1{
+  margin-left: 5px;
+  color: whitesmoke;
+  text-transform: uppercase;
+  width: 80px;
+  height: 10px;
+  float: left;
+}
+
+.right2{
+  margin-left: 5px;
+  color: whitesmoke;
+  text-transform: uppercase;
+  width: 60px;
+  height: 10px;
+  float: left; 
+}
+.right3{
+    margin-left: 2px;
+    color: whitesmoke;
+    text-transform: uppercase;
+    width: 60px;
+    height: 10px;
+    float: left;
+}
+.subscribe{
+  float: left;
+  margin-top: 60px;
+  margin-left: 6px;
+}
+.button{
+  background-color: orange;
+}
+.options{
+  float: left;
+  margin-top: 10px;
+  color: white;
+  margin-left: 6px;
+}
+.reserved{
+  width: 100%;
+  height: 30px;
+  background-color: #404040;
+  float: left;
+  color: lightgrey;
+  text-align: center;
+  margin-top: 2px;
+}
